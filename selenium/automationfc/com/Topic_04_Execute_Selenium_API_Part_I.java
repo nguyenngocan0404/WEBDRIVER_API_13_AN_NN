@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
  
-public class Topic_04_Execute_Selenium_API {
+public class Topic_04_Execute_Selenium_API_Part_I {
 WebDriver driver;
  
 @BeforeClass
